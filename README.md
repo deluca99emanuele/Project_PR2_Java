@@ -1,2 +1,2 @@
-# Project_PR2_Java_MicroBlog
+# Project_PR2_Java
 Applicazione in Java di un social network 
